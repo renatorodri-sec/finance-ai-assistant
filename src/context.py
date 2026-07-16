@@ -1,15 +1,15 @@
-class ConversationContext:
+class Contexto:
     def __init__(self):
-        self.history = []
+        self.historico = []
 
-    def add_message(self, user, message):
-        self.history.append({
-            "user": user,
-            "message": message
+    def adicionar_mensagem(self, usuario, mensagem):
+        self.historico.append({
+            "usuario": usuario,
+            "mensagem": mensagem
         })
 
-    def get_history(self):
-        return self.history
+    def obter_historico(self):
+        return self.historico
 
-    def clear(self):
-        self.history = []
+    def limpar(self):
+        self.historico = []
