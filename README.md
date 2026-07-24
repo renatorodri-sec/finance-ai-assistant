@@ -10,6 +10,10 @@ O FinanceAI é um assistente virtual desenvolvido em Python com foco em educaç�
 
 O assistente é capaz de responder dúvidas financeiras, realizar cálculos, explicar produtos financeiros e manter o contexto da conversa durante a interação.
 
+## 📸 Demonstração
+
+Em breve serão adicionadas imagens e GIFs demonstrando o funcionamento do FinanceAI.
+
 ---
 
 ## 🚀 Funcionalidades
@@ -48,6 +52,48 @@ finance-ai-assistant/
 ├── LICENSE
 └── .gitignore
 ```
+---
+
+## ▶️ Como executar
+
+1. Clone este repositório.
+
+```bash
+git clone https://github.com/renatorodri-sec/finance-ai-assistant.git
+```
+
+2. Entre na pasta do projeto.
+
+```bash
+cd finance-ai-assistant
+```
+
+3. Instale as dependências.
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Execute o programa.
+
+```bash
+python src/main.py
+```
+---
+
+## ✅ Executando os testes
+
+Execute:
+
+```bash
+pytest
+```
+
+ou
+
+```bash
+python3 -m pytest
+```
 
 ---
 
@@ -57,8 +103,18 @@ Desenvolver um assistente virtual para o setor financeiro aplicando conceitos de
 
 ---
 
+## 🚀 Melhorias Futuras
+
+- Integração com APIs financeiras.
+- Interface gráfica.
+- Persistência de dados em banco de dados.
+- Integração com modelos de IA.
+- Histórico de conversas.
+- Dashboard financeiro.
+
+---
 ## 👨‍💻 Desenvolvedor
 
-Renato Moraes
+Renato Morais
 
 Projeto desenvolvido durante o Bootcamp da DIO.
