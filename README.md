@@ -117,24 +117,23 @@ Desenvolver um assistente virtual para o setor financeiro aplicando conceitos de
 
 ### Tela inicial
 
-![Tela Inicial](ativos/imagens/tela-inicial.png)
+![Tela Inicial](assets/images/tela-inicial.png)
 
 ### Consulta sobre juros
 
-![Juros](ativos/imagens/juros.png)
+![Juros](assets/images/juros.png)
 
 ### Consulta sobre investimentos
 
-![Investimento](ativos/imagens/investimento.png)
+![Investimento](assets/images/investimento.png)
 
 ### Consulta sobre orçamento
 
-![Orçamento](ativos/imagens/orcamento.png)
+![Orçamento](assets/images/orcamento.png)
 
 ### Encerramento
 
-![Encerramento](ativos/imagens/encerramento.png)
-
+![Encerramento](assets/images/encerramento.png)
 
 ---
 ## 👨‍💻 Desenvolvedor
