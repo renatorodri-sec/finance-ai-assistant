@@ -111,6 +111,30 @@ Desenvolver um assistente virtual para o setor financeiro aplicando conceitos de
 - Integração com modelos de IA.
 - Histórico de conversas.
 - Dashboard financeiro.
+---
+
+## 📸 Demonstração
+
+### Tela inicial
+
+![Tela Inicial](ativos/imagens/tela-inicial.png)
+
+### Consulta sobre juros
+
+![Juros](ativos/imagens/juros.png)
+
+### Consulta sobre investimentos
+
+![Investimento](ativos/imagens/investimento.png)
+
+### Consulta sobre orçamento
+
+![Orçamento](ativos/imagens/orcamento.png)
+
+### Encerramento
+
+![Encerramento](ativos/imagens/encerramento.png)
+
 
 ---
 ## 👨‍💻 Desenvolvedor
